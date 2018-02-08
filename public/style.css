@@ -1,0 +1,30 @@
+.inputDiv {
+    margin: 0 auto;
+    width:  50%
+}
+h1{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%; 
+}
+.dltbtn{
+    float: right;
+}
+.editbtn{
+    float: right;
+}
+hr{
+    background-color: black;
+    width: 40%;
+    text-align: center;
+}
+.dltallbtn{
+    margin-top: 3%;
+    float: right;
+    margin-right: 25%;
+}
+.liDiv{
+    margin-top: 1%;
+    width: 50%;
+    text-align: left;
+}
